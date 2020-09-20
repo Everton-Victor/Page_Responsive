@@ -7,3 +7,8 @@ Page simples desenvolvida para praticar os conceitos de responsividade.
 ## Tecnologias usada no desenvolvimento
 - HTML5
 - CSS3
+
+##  Licença
+LICENSE
+Licença MIT
+https://github.com/Everton-Victor/Page_Responsive/blob/master/LICENS
